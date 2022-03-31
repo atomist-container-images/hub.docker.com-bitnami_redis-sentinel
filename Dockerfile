@@ -5,6 +5,12 @@ FROM bitnami/redis-sentinel:6.2.6
 FROM bitnami/redis-sentinel:6.2-debian-10
 FROM bitnami/redis-sentinel:6.2
 
+# Tags: 6.0.16-debian-10-r170, 6.0.16, 6.0-debian-10, 6.0
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r170
+FROM bitnami/redis-sentinel:6.0.16
+FROM bitnami/redis-sentinel:6.0-debian-10
+FROM bitnami/redis-sentinel:6.0
+
 # Tags: _
 FROM bitnami/redis-sentinel:_
 
@@ -14,11 +20,8 @@ FROM bitnami/redis-sentinel:5.0.14
 FROM bitnami/redis-sentinel:5.0-debian-10
 FROM bitnami/redis-sentinel:5.0
 
-# Tags: 6.0.16-debian-10-r169, 6.0.16, 6.0-debian-10, 6.0
+# Tags: 6.0.16-debian-10-r169
 FROM bitnami/redis-sentinel:6.0.16-debian-10-r169
-FROM bitnami/redis-sentinel:6.0.16
-FROM bitnami/redis-sentinel:6.0-debian-10
-FROM bitnami/redis-sentinel:6.0
 
 # Tags: 6.2.6-debian-10-r170
 FROM bitnami/redis-sentinel:6.2.6-debian-10-r170
