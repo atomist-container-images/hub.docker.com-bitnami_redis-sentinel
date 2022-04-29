@@ -1,18 +1,163 @@
-# Tags: latest, 6.2.6-debian-10-r175, 6.2.6, 6.2-debian-10, 6.2
+# Tags: latest, 6.2.7-debian-10-r1, 6.2.7, 6.2-debian-10, 6.2
 FROM bitnami/redis-sentinel:latest
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r175
-FROM bitnami/redis-sentinel:6.2.6
+FROM bitnami/redis-sentinel:6.2.7-debian-10-r1
+FROM bitnami/redis-sentinel:6.2.7
 FROM bitnami/redis-sentinel:6.2-debian-10
 FROM bitnami/redis-sentinel:6.2
 
-# Tags: 6.0.16-debian-10-r174, 6.0.16, 6.0-debian-10, 6.0
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r174
+# Tags: 6.0.16-debian-10-r198, 6.0.16, 6.0-debian-10, 6.0
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r198
 FROM bitnami/redis-sentinel:6.0.16
 FROM bitnami/redis-sentinel:6.0-debian-10
 FROM bitnami/redis-sentinel:6.0
 
 # Tags: _
 FROM bitnami/redis-sentinel:_
+
+# Tags: 6.0.16-debian-10-r197
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r197
+
+# Tags: 6.2.7-debian-10-r0
+FROM bitnami/redis-sentinel:6.2.7-debian-10-r0
+
+# Tags: 6.0.16-debian-10-r196
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r196
+
+# Tags: 6.2.6-debian-10-r197, 6.2.6
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r197
+FROM bitnami/redis-sentinel:6.2.6
+
+# Tags: 6.2.6-debian-10-r196
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r196
+
+# Tags: 6.0.16-debian-10-r195
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r195
+
+# Tags: 6.2.6-debian-10-r195
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r195
+
+# Tags: 6.0.16-debian-10-r194
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r194
+
+# Tags: 6.2.6-debian-10-r194
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r194
+
+# Tags: 6.0.16-debian-10-r193
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r193
+
+# Tags: 6.0.16-debian-10-r192
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r192
+
+# Tags: 6.2.6-debian-10-r193
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r193
+
+# Tags: 6.0.16-debian-10-r191
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r191
+
+# Tags: 6.2.6-debian-10-r192
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r192
+
+# Tags: 6.0.16-debian-10-r190
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r190
+
+# Tags: 6.2.6-debian-10-r191
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r191
+
+# Tags: 6.2.6-debian-10-r190
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r190
+
+# Tags: 6.0.16-debian-10-r189
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r189
+
+# Tags: 6.2.6-debian-10-r189
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r189
+
+# Tags: 6.0.16-debian-10-r188
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r188
+
+# Tags: 6.2.6-debian-10-r188
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r188
+
+# Tags: 6.0.16-debian-10-r187
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r187
+
+# Tags: 6.2.6-debian-10-r187
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r187
+
+# Tags: 6.0.16-debian-10-r186
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r186
+
+# Tags: 6.2.6-debian-10-r186
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r186
+
+# Tags: 6.0.16-debian-10-r185
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r185
+
+# Tags: 6.2.6-debian-10-r185
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r185
+
+# Tags: 6.0.16-debian-10-r184
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r184
+
+# Tags: 6.2.6-debian-10-r184
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r184
+
+# Tags: 6.0.16-debian-10-r183
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r183
+
+# Tags: 6.2.6-debian-10-r183
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r183
+
+# Tags: 6.0.16-debian-10-r182
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r182
+
+# Tags: 6.2.6-debian-10-r182
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r182
+
+# Tags: 6.0.16-debian-10-r181
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r181
+
+# Tags: 6.2.6-debian-10-r181
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r181
+
+# Tags: 6.0.16-debian-10-r180
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r180
+
+# Tags: 6.2.6-debian-10-r180
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r180
+
+# Tags: 6.0.16-debian-10-r179
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r179
+
+# Tags: 6.2.6-debian-10-r179
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r179
+
+# Tags: 6.0.16-debian-10-r178
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r178
+
+# Tags: 6.2.6-debian-10-r178
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r178
+
+# Tags: 6.0.16-debian-10-r177
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r177
+
+# Tags: 6.2.6-debian-10-r177
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r177
+
+# Tags: 6.0.16-debian-10-r176
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r176
+
+# Tags: 6.0.16-debian-10-r175
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r175
+
+# Tags: 6.2.6-debian-10-r176
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r176
+
+# Tags: 6.0.16-debian-10-r174
+FROM bitnami/redis-sentinel:6.0.16-debian-10-r174
+
+# Tags: 6.2.6-debian-10-r175
+FROM bitnami/redis-sentinel:6.2.6-debian-10-r175
 
 # Tags: 6.0.16-debian-10-r173
 FROM bitnami/redis-sentinel:6.0.16-debian-10-r173
@@ -49,219 +194,3 @@ FROM bitnami/redis-sentinel:6.0.16-debian-10-r169
 
 # Tags: 6.2.6-debian-10-r170
 FROM bitnami/redis-sentinel:6.2.6-debian-10-r170
-
-# Tags: 5.0.14-debian-10-r169
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r169
-
-# Tags: 6.0.16-debian-10-r168
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r168
-
-# Tags: 6.2.6-debian-10-r169
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r169
-
-# Tags: 5.0.14-debian-10-r168
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r168
-
-# Tags: 6.0.16-debian-10-r167
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r167
-
-# Tags: 6.2.6-debian-10-r168
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r168
-
-# Tags: 5.0.14-debian-10-r167
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r167
-
-# Tags: 6.0.16-debian-10-r166
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r166
-
-# Tags: 6.2.6-debian-10-r167
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r167
-
-# Tags: 5.0.14-debian-10-r166
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r166
-
-# Tags: 6.0.16-debian-10-r165
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r165
-
-# Tags: 6.2.6-debian-10-r166
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r166
-
-# Tags: 5.0.14-debian-10-r165
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r165
-
-# Tags: 6.0.16-debian-10-r164
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r164
-
-# Tags: 6.2.6-debian-10-r165
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r165
-
-# Tags: 5.0.14-debian-10-r164
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r164
-
-# Tags: 6.0.16-debian-10-r163
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r163
-
-# Tags: 6.2.6-debian-10-r164
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r164
-
-# Tags: 5.0.14-debian-10-r163
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r163
-
-# Tags: 6.0.16-debian-10-r162
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r162
-
-# Tags: 6.2.6-debian-10-r163
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r163
-
-# Tags: 5.0.14-debian-10-r162
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r162
-
-# Tags: 6.0.16-debian-10-r161
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r161
-
-# Tags: 6.2.6-debian-10-r162
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r162
-
-# Tags: 5.0.14-debian-10-r161
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r161
-
-# Tags: 6.0.16-debian-10-r160
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r160
-
-# Tags: 6.2.6-debian-10-r161
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r161
-
-# Tags: 5.0.14-debian-10-r160
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r160
-
-# Tags: 6.0.16-debian-10-r159
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r159
-
-# Tags: 6.2.6-debian-10-r160
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r160
-
-# Tags: 5.0.14-debian-10-r159
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r159
-
-# Tags: 6.0.16-debian-10-r158
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r158
-
-# Tags: 6.2.6-debian-10-r159
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r159
-
-# Tags: 5.0.14-debian-10-r158
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r158
-
-# Tags: 6.0.16-debian-10-r157
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r157
-
-# Tags: 6.2.6-debian-10-r158
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r158
-
-# Tags: 5.0.14-debian-10-r157
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r157
-
-# Tags: 6.0.16-debian-10-r156
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r156
-
-# Tags: 6.2.6-debian-10-r157
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r157
-
-# Tags: 5.0.14-debian-10-r156
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r156
-
-# Tags: 6.0.16-debian-10-r155
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r155
-
-# Tags: 6.2.6-debian-10-r156
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r156
-
-# Tags: 5.0.14-debian-10-r155
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r155
-
-# Tags: 6.0.16-debian-10-r154
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r154
-
-# Tags: 6.2.6-debian-10-r155
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r155
-
-# Tags: 5.0.14-debian-10-r154
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r154
-
-# Tags: 6.0.16-debian-10-r153
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r153
-
-# Tags: 6.2.6-debian-10-r154
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r154
-
-# Tags: 5.0.14-debian-10-r153
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r153
-
-# Tags: 6.0.16-debian-10-r152
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r152
-
-# Tags: 6.2.6-debian-10-r153
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r153
-
-# Tags: 5.0.14-debian-10-r152
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r152
-
-# Tags: 6.0.16-debian-10-r151
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r151
-
-# Tags: 6.2.6-debian-10-r152
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r152
-
-# Tags: 5.0.14-debian-10-r151
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r151
-
-# Tags: 6.0.16-debian-10-r150
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r150
-
-# Tags: 6.2.6-debian-10-r151
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r151
-
-# Tags: 5.0.14-debian-10-r150
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r150
-
-# Tags: 6.0.16-debian-10-r149
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r149
-
-# Tags: 6.2.6-debian-10-r150
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r150
-
-# Tags: 5.0.14-debian-10-r149
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r149
-
-# Tags: 6.0.16-debian-10-r148
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r148
-
-# Tags: 6.2.6-debian-10-r149
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r149
-
-# Tags: 5.0.14-debian-10-r148
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r148
-
-# Tags: 6.0.16-debian-10-r147
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r147
-
-# Tags: 6.2.6-debian-10-r148
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r148
-
-# Tags: 5.0.14-debian-10-r147
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r147
-
-# Tags: 6.0.16-debian-10-r146
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r146
-
-# Tags: 6.2.6-debian-10-r147
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r147
-
-# Tags: 5.0.14-debian-10-r146
-FROM bitnami/redis-sentinel:5.0.14-debian-10-r146
-
-# Tags: 6.0.16-debian-10-r145
-FROM bitnami/redis-sentinel:6.0.16-debian-10-r145
-
-# Tags: 6.2.6-debian-10-r146
-FROM bitnami/redis-sentinel:6.2.6-debian-10-r146
